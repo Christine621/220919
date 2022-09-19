@@ -7,10 +7,12 @@
 ###### 220919 Christine
 
 
+
+### Emoji
 🍊
 
 
-
+### Photo
 ![1.jpeg](1.jpeg "1")
 
 
@@ -19,15 +21,16 @@
 
 
 ---
+### Python Code
 ```python
 s="Python Syntax Hightlight"
 print (s)
 ```
 
 
-**粗體**
-*斜體*
-~~刪除線~~
+**粗體**  
+*斜體*  
+~~刪除線~~  
 
 
 1.First ordered list item
