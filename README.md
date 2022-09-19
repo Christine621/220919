@@ -1,3 +1,4 @@
+
 # 220919 Christine
 ## 220919 Christine
 ### 220919 Christine
@@ -5,9 +6,13 @@
 ##### 220919 Christine
 ###### 220919 Christine
 
+
 🍊
 
+
+
 ![1.jpeg](1.jpeg "1")
+
 
 - [ ] todo list
 - [x] done
@@ -24,10 +29,12 @@ print (s)
 *斜體*
 ~~刪除線~~
 
+
 1.First ordered list item
 2.Another item
 >..*Unordered
 3.
+
 
 表格
 | Tables   | Are  | Right Aligned  |
