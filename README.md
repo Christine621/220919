@@ -83,6 +83,10 @@ raw Markdown line up prettily. You can also use inline Markdown.
 
 
 ---
+### 影片
+[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=sSm2dRarhPo "Everything Is AWESOME")
+
+---
 ### HW2
 
 
